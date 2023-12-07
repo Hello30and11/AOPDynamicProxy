@@ -1,0 +1,2 @@
+# AOPDynamicProxy
+在Castle.Core.dll的DynamicProxy基础上进行封装的、运行时创建动态代理对象的AOP框架
