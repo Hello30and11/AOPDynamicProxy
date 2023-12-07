@@ -1,0 +1,10 @@
+E:\SolutionsRepo\uploadToInternet\AOPDynamicProxy\AOPDynamicProxy\bin\Debug\AOPDynamicProxy.dll
+E:\SolutionsRepo\uploadToInternet\AOPDynamicProxy\AOPDynamicProxy\bin\Debug\AOPDynamicProxy.pdb
+E:\SolutionsRepo\uploadToInternet\AOPDynamicProxy\AOPDynamicProxy\bin\Debug\Castle.Core.dll
+E:\SolutionsRepo\uploadToInternet\AOPDynamicProxy\AOPDynamicProxy\bin\Debug\log4net.dll
+E:\SolutionsRepo\uploadToInternet\AOPDynamicProxy\AOPDynamicProxy\bin\Debug\Castle.Core.xml
+E:\SolutionsRepo\uploadToInternet\AOPDynamicProxy\AOPDynamicProxy\bin\Debug\log4net.xml
+E:\SolutionsRepo\uploadToInternet\AOPDynamicProxy\AOPDynamicProxy\obj\Debug\AOPDynamicProxy.csproj.CoreCompileInputs.cache
+E:\SolutionsRepo\uploadToInternet\AOPDynamicProxy\AOPDynamicProxy\obj\Debug\AOPDynamicProxy.csproj.CopyComplete
+E:\SolutionsRepo\uploadToInternet\AOPDynamicProxy\AOPDynamicProxy\obj\Debug\AOPDynamicProxy.dll
+E:\SolutionsRepo\uploadToInternet\AOPDynamicProxy\AOPDynamicProxy\obj\Debug\AOPDynamicProxy.pdb
